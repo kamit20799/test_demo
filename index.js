@@ -1,1 +1,0 @@
-alert("!!Warning_This is demo page!!")
